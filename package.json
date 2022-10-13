@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "linked-list": "^3.0.2"
+  }
+}
